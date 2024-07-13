@@ -7,6 +7,6 @@
 + **Mi Archivo:** Acceso fácil y rápido a los documentos por parte de los usuarios, con funcionalidades específicas para la gestión de los radicados bajo su responsabilidad.
 
 # Tecnologías Utilizadas
-## Frontend: Construido con React utilizando la potente plantilla de Vuexy v6.5 para una interfaz de usuario moderna y responsiva.
-## Backend: Potenciado por Laravel, asegurando un rendimiento óptimo y una seguridad robusta en la gestión de datos.
-## Autenticación JWT: Implementación de JSON Web Tokens para una autenticación segura y eficiente.
++ **Frontend:** Construido con React utilizando la potente plantilla de Vuexy v6.5 para una interfaz de usuario moderna y responsiva.
++ **Backend:** Potenciado por Laravel, asegurando un rendimiento óptimo y una seguridad robusta en la gestión de datos.
++ **Autenticación ** JWT: Implementación de JSON Web Tokens para una autenticación segura y eficiente.
