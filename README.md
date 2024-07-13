@@ -1,2 +1,2 @@
 # ocobo
- Ocobo s una solución avanzada de gestión documental diseñada para optimizar y automatizar los procesos de recepción, distribución, custodia y almacenamiento de archivos digitalizados en una entidad.
+ Ocobo es una solución avanzada de gestión documental diseñada para optimizar y automatizar los procesos de recepción, distribución, custodia y almacenamiento de archivos digitalizados en una entidad. Nuestra aplicación facilita el manejo eficiente de la correspondencia recibida, enviada e interna, garantizando que toda la documentación esté siempre al alcance de tus manos de manera segura y organizada.
